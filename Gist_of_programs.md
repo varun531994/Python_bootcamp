@@ -14,4 +14,4 @@
 #The blackjack program is a mini project done to understand integration of functions.
 
 
-#There are several programs where a function might be needed but is written to get well versed with the usage of functions.
+#There are several programs where a function might not be necessary but is written to get well versed with the usage of functions.
